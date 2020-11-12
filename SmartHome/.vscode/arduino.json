@@ -1,0 +1,6 @@
+{
+    "sketch": "kitchen\\app.ino",
+    "board": "arduino:avr:pro",
+    "port": "COM3",
+    "configuration": "cpu=16MHzatmega328"
+}
