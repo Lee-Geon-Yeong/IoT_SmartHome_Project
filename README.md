@@ -10,22 +10,29 @@
 ## 3. 흐름도
 ![image](https://user-images.githubusercontent.com/59759468/105969684-def29700-60cb-11eb-82ad-df3f55620848.png)
 
-## 4. 역할
-
+## 4. 역할 및 WBS
 ![image](https://user-images.githubusercontent.com/59759468/105969151-48be7100-60cb-11eb-92dd-51d5bda48e5e.png)
+![image](https://user-images.githubusercontent.com/59759468/105969918-224d0580-60cc-11eb-8bdf-b6f4e188967f.png)
 
 ## 5. 하드웨어
-![image](https://user-images.githubusercontent.com/59759468/105449258-60f15300-5cbb-11eb-9bd5-d54b8a81ab49.png)
-![image](https://user-images.githubusercontent.com/59759468/105449282-6babe800-5cbb-11eb-9cf0-ccd86ae35caa.png)
+![image](https://user-images.githubusercontent.com/59759468/105970077-4f011d00-60cc-11eb-8d59-2bf62c100ba1.png)
+![image](https://user-images.githubusercontent.com/59759468/105970208-70620900-60cc-11eb-9214-9754385adeb3.png)
+
 
 ## 6. 주요 기능
 ![image](https://user-images.githubusercontent.com/59759468/105969452-9e931900-60cb-11eb-956f-9903a6758fc0.png)
+![image](https://user-images.githubusercontent.com/59759468/105970331-98516c80-60cc-11eb-8cfb-16f9a5eb5266.png)
+![image](https://user-images.githubusercontent.com/59759468/105970387-ab643c80-60cc-11eb-829f-a674c536ae1e.png)
+![image](https://user-images.githubusercontent.com/59759468/105970445-bc14b280-60cc-11eb-9b38-4e6bf2caaa5b.png)
+![image](https://user-images.githubusercontent.com/59759468/105970508-cc2c9200-60cc-11eb-95ce-e104464aab80.png)
+
 
 ## 7. 향후 계획
-![image](https://user-images.githubusercontent.com/59759468/105448738-30f58000-5cba-11eb-88ce-5a09fa20f263.png)
+![image](https://user-images.githubusercontent.com/59759468/105970663-f716e600-60cc-11eb-996f-82a74902c501.png)
+
 
 ## 8. 느낀 점
-![image](https://user-images.githubusercontent.com/59759468/105448800-55515c80-5cba-11eb-8a2c-79cbe0c43f0e.png)
+![image](https://user-images.githubusercontent.com/59759468/105971208-9f2caf00-60cd-11eb-939a-946f9d420ca2.png)
 
 
 ## 9. 발표 사진
