@@ -36,5 +36,5 @@
 
 
 ## 9. 발표 사진
-![image](https://user-images.githubusercontent.com/59759468/105971402-d3a06b00-60cd-11eb-9818-6a59af28f627.png)
+![image](https://user-images.githubusercontent.com/59759468/105971773-3f82d380-60ce-11eb-8bc4-0c00257a73f5.png)
 ![image](https://user-images.githubusercontent.com/59759468/105971489-edda4900-60cd-11eb-8e32-1cfea1e4889e.png)
