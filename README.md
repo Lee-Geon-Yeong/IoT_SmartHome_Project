@@ -12,6 +12,7 @@
 
 ## 4. 역할
 ![image](https://user-images.githubusercontent.com/59759468/105969011-1e6cb380-60cb-11eb-8c65-3debe310c8f4.png)
+![image](https://user-images.githubusercontent.com/59759468/105969151-48be7100-60cb-11eb-92dd-51d5bda48e5e.png)
 
 ## 5. 하드웨어
 ![image](https://user-images.githubusercontent.com/59759468/105449258-60f15300-5cbb-11eb-9bd5-d54b8a81ab49.png)
