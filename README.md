@@ -36,5 +36,5 @@
 
 
 ## 9. 발표 사진
-![KakaoTalk_20210127_173934925](https://user-images.githubusercontent.com/59759468/105968731-cafa6580-60ca-11eb-9e97-0f4c326cd9a5.png)
-![KakaoTalk_20210127_173934925_01](https://user-images.githubusercontent.com/59759468/105968738-ccc42900-60ca-11eb-9042-08762a8acf19.png)
+![image](https://user-images.githubusercontent.com/59759468/105971402-d3a06b00-60cd-11eb-9818-6a59af28f627.png)
+![image](https://user-images.githubusercontent.com/59759468/105971489-edda4900-60cd-11eb-8e32-1cfea1e4889e.png)
