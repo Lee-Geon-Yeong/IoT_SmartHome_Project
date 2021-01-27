@@ -1,17 +1,17 @@
 # 독거노인 및 취약계층을 위한 SMART_HOME IOT 서비스
 
 ## 1. 기획의도 및 차별점
-![image](https://user-images.githubusercontent.com/59759468/105445861-4ff11380-5cb4-11eb-854b-de793545efca.png)
-![image](https://user-images.githubusercontent.com/59759468/105445899-61d2b680-5cb4-11eb-89fc-f68c9ce685b5.png)
+![image](https://user-images.githubusercontent.com/59759468/105969285-6d1a4d80-60cb-11eb-86f0-d61420ab74e1.png)
+![image](https://user-images.githubusercontent.com/59759468/105969388-8a4f1c00-60cb-11eb-9a15-88b2c02a98e0.png)
 
 ## 2. Tools
-![image](https://user-images.githubusercontent.com/59759468/105448102-02c37080-5cb9-11eb-9bc5-137d210c3292.png)
+![image](https://user-images.githubusercontent.com/59759468/105969654-d4380200-60cb-11eb-900e-2997b4ea8f25.png)
 
 ## 3. 흐름도
-![image](https://user-images.githubusercontent.com/59759468/105448082-ede6dd00-5cb8-11eb-900a-dcfbd6ee5fe6.png)
+![image](https://user-images.githubusercontent.com/59759468/105969684-def29700-60cb-11eb-82ad-df3f55620848.png)
 
 ## 4. 역할
-![image](https://user-images.githubusercontent.com/59759468/105969011-1e6cb380-60cb-11eb-8c65-3debe310c8f4.png)
+
 ![image](https://user-images.githubusercontent.com/59759468/105969151-48be7100-60cb-11eb-92dd-51d5bda48e5e.png)
 
 ## 5. 하드웨어
@@ -19,11 +19,7 @@
 ![image](https://user-images.githubusercontent.com/59759468/105449282-6babe800-5cbb-11eb-9cf0-ccd86ae35caa.png)
 
 ## 6. 주요 기능
-![image](https://user-images.githubusercontent.com/59759468/105447952-a19b9d00-5cb8-11eb-9360-6b2a5a87aedf.png)
-![image](https://user-images.githubusercontent.com/59759468/105448831-6732ff80-5cba-11eb-8ad2-0dcd6fcaf4d8.png)
-![image](https://user-images.githubusercontent.com/59759468/105448615-f1c72f00-5cb9-11eb-9607-e8960184b5bb.png)
-![image](https://user-images.githubusercontent.com/59759468/105448629-f7bd1000-5cb9-11eb-8c81-acde9742b23d.png)
-![image](https://user-images.githubusercontent.com/59759468/105448647-fe4b8780-5cb9-11eb-9e28-31c06101a80a.png)
+![image](https://user-images.githubusercontent.com/59759468/105969452-9e931900-60cb-11eb-956f-9903a6758fc0.png)
 
 ## 7. 향후 계획
 ![image](https://user-images.githubusercontent.com/59759468/105448738-30f58000-5cba-11eb-88ce-5a09fa20f263.png)
